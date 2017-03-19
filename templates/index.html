@@ -2,7 +2,24 @@
 
 {% block content %}
     <h1>DEVGIF</h1>
+
     <p>
-    Bored of cat gifs? With devgif you can easily insert dev-related gifs to Twist or Slack.
+    Bored of cat gifs? With devgif you can easily insert dev-related gifs to <a href="https://twistapp.com">Twist</a> or
+    <a href="https://slack.com">Slack</a>.
     </p>
+
+    <p>
+    The excellent <a href="http://devopsreactions.tumblr.com/">DevOps Reactions</a> is used as a source.
+    </p>
+
+    <h3>Try it</h3>
+    <form action="/gif" method="get">
+        <input type="text" name="q" value="friday deploy" />
+        <input type="submit" value="Search" />
+    </form>
+
+    <h3>Installing in Twist</h3>
+    <h3>Installing in Slack</h3>
+
+
 {% endblock %}

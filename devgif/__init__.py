@@ -5,8 +5,8 @@ import random
 # title, url, likes
 GIFS = []
 NOT_FOUND_GIFS = [
-    ['Not found', 'https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif', 0],
-    ['Not found', 'https://media.giphy.com/media/l0MYHq0IFikDrVQOc/giphy.gif', 0],
+    ['Nothing found', 'https://media.giphy.com/media/12zV7u6Bh0vHpu/giphy.gif', 0],
+    ['Nothing found', 'https://media.giphy.com/media/l0MYHq0IFikDrVQOc/giphy.gif', 0],
 ]
 
 

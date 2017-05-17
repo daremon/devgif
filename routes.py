@@ -35,6 +35,29 @@ def slack():
     return jsonify(response)
 
 
+@app.route('/twist', methods=['POST'])
+def twist():
+    twist_token = '9_c3a15aac02fb8742157484d4'
+
+    if request.form.get('verify_token') != twist_token:
+        return abort(403)
+
+    if request.form.get('event_type') == 'ping':
+        return jsonify({'content': 'pong'})
+
+    arg = request.form.get('command_argument')
+    gif = devgif.get(q=arg)
+    print '!!! arg=%s // title=%s' % (arg, gif[0])
+    return jsonify({
+        'content': '%s\n**%s**' % (request.form.get('content'), gif[0]),
+        'attachments': [{
+            'url': gif[1],
+            'url_type': 'image',
+            'image': gif[1],
+        }]
+    })
+
+
 if __name__ == "__main__":
     app.debug = True
     app.run(host='0.0.0.0', port=8888)

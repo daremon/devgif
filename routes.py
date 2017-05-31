@@ -1,6 +1,6 @@
 import config
 import devgif
-from flask import Flask, render_template, request, abort, jsonify
+from flask import Flask, render_template, request, abort, jsonify, redirect
 
 app = Flask(__name__)
 
@@ -10,6 +10,11 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/privacy')
+def privacy():
+    return render_template('privacy.html')
+
+
 @app.route('/gif', methods=['GET'])
 def gif():
     gif = devgif.get(q=request.args.get('q'))
@@ -17,6 +22,11 @@ def gif():
                            title=gif[0],
                            url=gif[1],
                            likes=gif[2])
+
+
+@app.route('/slack_oauth', methods=['GET'])
+def slack_oauth():
+    return redirect('https://slack.com/apps/A4LFVLX3N-devgif')
 
 
 @app.route('/slack', methods=['POST'])

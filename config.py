@@ -1,5 +1,7 @@
-SLACK_TOKEN = 'XXXXX'
-TWIST_TOKEN = 'XXXXX'
+SLACK_TOKEN = 'xxxxxx'
+TWIST_TOKEN = 'xxxxxx'
+SLACK_CLIENT_ID = 'xxxxxx'
+SLACK_CLIENT_SECRET = 'xxxxxx'
 
 try:
     from config_custom import *

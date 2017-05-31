@@ -1,5 +1,6 @@
 import config
 import devgif
+import requests
 from flask import Flask, render_template, request, abort, jsonify, redirect
 
 app = Flask(__name__)
@@ -26,6 +27,13 @@ def gif():
 
 @app.route('/slack_oauth', methods=['GET'])
 def slack_oauth():
+    post_args = {
+        'client_id': config.SLACK_CLIENT_ID,
+        'client_secret': config.SLACK_CLIENT_SECRET,
+        'code': request.args.get('code'),
+        'redirect_uri': 'https://devgif.com/slack_oauth'
+    }
+    requests.post('https://slack.com/api/oauth.access', data=post_args)
     return redirect('https://slack.com/apps/A4LFVLX3N-devgif')
 
 

@@ -1,5 +1,6 @@
-from flask import Flask, render_template, request, abort, jsonify
+import config
 import devgif
+from flask import Flask, render_template, request, abort, jsonify
 
 app = Flask(__name__)
 
@@ -20,8 +21,7 @@ def gif():
 
 @app.route('/slack', methods=['POST'])
 def slack():
-    slack_token = 'LjEN3AoSaR4Jur51qKxAEVkU'
-    if request.form.get('token') != slack_token:
+    if request.form.get('token') != config.SLACK_TOKEN:
         return abort(403)
 
     gif = devgif.get(q=request.form.get('text'))
@@ -37,9 +37,7 @@ def slack():
 
 @app.route('/twist', methods=['POST'])
 def twist():
-    twist_token = '9_c3a15aac02fb8742157484d4'
-
-    if request.form.get('verify_token') != twist_token:
+    if request.form.get('verify_token') != config.TWIST_TOKEN:
         return abort(403)
 
     if request.form.get('event_type') == 'ping':

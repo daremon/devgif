@@ -10,13 +10,24 @@ ARCHIVE_URL = 'http://devopsreactions.tumblr.com/archive/%(year)s/%(month)s'
 REGEX = 'class="post_title">([^<]+)</div>.*?src="([^"]+)".*?data-notes="(\d+)"'
 
 
+def _image_loads(url):
+    try:
+        r = requests.get(url, timeout=2)
+    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError):
+        return False
+    return r.status_code == 200
+
+
 def scrap_month(month, year):
     print 'Fetching %s/%s' % (month, year)
+
     html = requests.get(ARCHIVE_URL % {'year': year, 'month': month})
     if html.status_code != 200:
         print 'Response %s - skipping.' % html.status_code
         return []
-    res = re.findall(REGEX, html.text, re.DOTALL)
+
+    res = [x for x in re.findall(REGEX, html.text, re.DOTALL)
+           if _image_loads(x[1])]
     return res
 
 

@@ -1,10 +1,5 @@
 [
     [
-        "When someone mentions IPv6", 
-        "http://www.ohmagif.com/wp-content/uploads/2012/11/shocked-at-the-tv-studio.gif", 
-        "15"
-    ], 
-    [
         "Providing feedback to development", 
         "http://www.ohmagif.com/wp-content/uploads/2012/05/hulk-smash.gif", 
         "28"
@@ -15,14 +10,14 @@
         "56"
     ], 
     [
+        "When someone mentions IPv6", 
+        "http://www.ohmagif.com/wp-content/uploads/2012/11/shocked-at-the-tv-studio.gif", 
+        "15"
+    ], 
+    [
         "When a server goes down despite our efforts", 
         "http://i.imgur.com/1Wz61.gif", 
         "13"
-    ], 
-    [
-        "Paying a visit to development after spending another whole day dealing with a silly product bug", 
-        "http://gifsoup.com/webroot/animatedgifs4/1163479_o.gif", 
-        "7"
     ], 
     [
         "When a new hire asks whether he should use git", 
@@ -240,14 +235,14 @@
         "23"
     ], 
     [
-        "When jenkins fails to build the package for the 5th time in a row", 
-        "http://i.imgur.com/qBp4u.gif", 
-        "11"
-    ], 
-    [
         "Mandatory operations manager study in order to be able to interact with other teams", 
         "http://68.media.tumblr.com/tumblr_mekbxzKXP41raprkq.gif", 
         "14"
+    ], 
+    [
+        "When jenkins fails to build the package for the 5th time in a row", 
+        "http://i.imgur.com/qBp4u.gif", 
+        "11"
     ], 
     [
         "When someone says that he solved the monitoring problem", 
@@ -260,14 +255,14 @@
         "51"
     ], 
     [
-        "Arguing technical strategies with management", 
-        "http://68.media.tumblr.com/tumblr_meja8q02cu1raprkq.gif", 
-        "11"
-    ], 
-    [
         "When a Sales Droid wants to &quot;work from the NOC&quot;.", 
         "https://i.chzbgr.com/maxW500/4564695808/hDBD2DA4E/", 
         "1"
+    ], 
+    [
+        "Arguing technical strategies with management", 
+        "http://68.media.tumblr.com/tumblr_meja8q02cu1raprkq.gif", 
+        "11"
     ], 
     [
         "One way of doing operations", 
@@ -385,11 +380,6 @@
         "69"
     ], 
     [
-        "That moment when you realize you&#039;ve deleted PRODUCTION data...", 
-        "http://gifsoup.com/view1/4447907/that-oh-crap-moment-o.gif", 
-        "42"
-    ], 
-    [
         "Made a production change and didn&#039;t tell anyone", 
         "http://i.imgur.com/o0XTn.gif", 
         "39"
@@ -430,14 +420,14 @@
         "6"
     ], 
     [
-        "Refactoring the code?", 
-        "http://68.media.tumblr.com/tumblr_m8um5czsa51qawgya.gif", 
-        "29"
-    ], 
-    [
         "Someone uses svn blame", 
         "http://i.imgur.com/CIGd6.gif", 
         "5"
+    ], 
+    [
+        "Refactoring the code?", 
+        "http://68.media.tumblr.com/tumblr_m8um5czsa51qawgya.gif", 
+        "29"
     ], 
     [
         "When you review undocumented code", 
@@ -462,7 +452,7 @@
     [
         "When someone tries to kill a zombie process", 
         "http://www.ohmagif.com/wp-content/uploads/2012/09/ha-ha-another-white-blonde.gif", 
-        "22"
+        "25"
     ], 
     [
         "puppet kick going well", 
@@ -605,16 +595,6 @@
         "87"
     ], 
     [
-        "Finding a usable backup after a disaster", 
-        "http://gifsoup.com/view4/4492242/i-found-a-usable-backup-o.gif", 
-        "30"
-    ], 
-    [
-        "Recruiter reaction when putting DevOps as a skill in a public CV", 
-        "http://gifsoup.com/view5/4492215/the-devops-effect-o.gif", 
-        "21"
-    ], 
-    [
         "After a full day of deployment", 
         "http://68.media.tumblr.com/0ffb2a3fb20991ea7391e2aed370c036/tumblr_inline_mhetalzhta1qz4rgp.gif", 
         "17"
@@ -723,11 +703,6 @@
         "Developing without specifications", 
         "http://68.media.tumblr.com/12fbd835b4d508a9217d01a6ba0f217d/tumblr_inline_mjkkcoJW6d1qz4rgp.gif", 
         "97"
-    ], 
-    [
-        "Changing production without backups", 
-        "http://i.minus.com/iTIoSEWMoiHEZ.gif", 
-        "49"
     ], 
     [
         "When Google added animated image search", 
@@ -867,7 +842,7 @@
     [
         "When caffeine stops working", 
         "http://i.imgur.com/K2aq9.gif", 
-        "244"
+        "245"
     ], 
     [
         "Unexpected kernel oops while running tail -f /var/log/messages", 
@@ -907,7 +882,7 @@
     [
         "QA&#039;s first look at new build", 
         "http://i.imgur.com/VL5AN4g.gif", 
-        "154"
+        "155"
     ], 
     [
         "Yahoo VP when told that the private key was bundled with Axis", 
@@ -957,7 +932,7 @@
     [
         "Almost ran UPDATE without WHERE", 
         "http://i.imgur.com/u9FX3.gif", 
-        "161"
+        "162"
     ], 
     [
         "unpacking .bz2 SQL dump", 
@@ -1047,12 +1022,12 @@
     [
         "Migrating away from old datacenter", 
         "http://68.media.tumblr.com/cad3162e5f133db0827856e4704369f7/tumblr_inline_mmrd2uy3dV1qz4rgp.gif", 
-        "132"
+        "131"
     ], 
     [
         "How an svn user sees git workflow", 
         "http://i.imgur.com/VQcG7bP.gif", 
-        "168"
+        "169"
     ], 
     [
         "Damn cached JS file", 
@@ -1067,7 +1042,7 @@
     [
         "Another PCI DSS audit", 
         "http://i.imgur.com/mHC9ZFa.gif", 
-        "21"
+        "22"
     ], 
     [
         "One of those days...", 
@@ -1122,7 +1097,7 @@
     [
         "Trying to fix someone else&#039;s CSS", 
         "http://i.imgur.com/SFiKiLI.gif", 
-        "267"
+        "268"
     ], 
     [
         "Debian Wheezy released", 
@@ -1457,7 +1432,7 @@
     [
         "Typical bug fixing", 
         "http://68.media.tumblr.com/04807dd75132480d0c26cbcc09f85d3e/tumblr_inline_o4vdewfAEa1raprkq_500.gif", 
-        "354"
+        "355"
     ], 
     [
         "How managers see themselves when micromanaging", 
@@ -1467,7 +1442,7 @@
     [
         "Scoping vs Implementation", 
         "http://i.imgur.com/3YXvyRz.gif", 
-        "81"
+        "83"
     ], 
     [
         "Demoing the product for the first time", 
@@ -1487,7 +1462,7 @@
     [
         "Lets ignore the tests for now", 
         "http://68.media.tumblr.com/d486a5f8485bb10a32a5c89822045147/tumblr_inline_mrcdzz46So1qz4rgp.gif", 
-        "65"
+        "64"
     ], 
     [
         "Development vs Engineering vs Management", 
@@ -1497,7 +1472,7 @@
     [
         "When the senior developer tries to teach me how to use his library", 
         "http://i.imgur.com/D7ymfIc.gif", 
-        "82"
+        "83"
     ], 
     [
         "When disaster happens and you don&#039;t have DR", 
@@ -1612,7 +1587,7 @@
     [
         "When we agree to drop support for an archaic browser", 
         "http://i.imgur.com/J7o5rq5.gif", 
-        "129"
+        "128"
     ], 
     [
         "Keeping our infrastructure running", 
@@ -1682,7 +1657,7 @@
     [
         "Live demo goes off without a hitch", 
         "http://i.imgur.com/zH482fC.gif", 
-        "55"
+        "54"
     ], 
     [
         "Waiting for a node to pick up chef settings ", 
@@ -1707,7 +1682,7 @@
     [
         "After reading what NSA does to bypass cryptography", 
         "http://i.imgur.com/gbTehJl.gif", 
-        "95"
+        "94"
     ], 
     [
         "Ironing out the details", 
@@ -2027,7 +2002,7 @@
     [
         "Going on shift", 
         "http://68.media.tumblr.com/6d8c32f423550795746deb84bc23b1a3/tumblr_inline_mxzcnayKCb1raprkq.gif", 
-        "62"
+        "63"
     ], 
     [
         "Our development model", 
@@ -2312,7 +2287,7 @@
     [
         "Explaining how git, gerrit, and jenkins work together", 
         "http://68.media.tumblr.com/6930c27018b33362d7a93d1b2cf1b772/tumblr_inline_n0e0fwku0g1raprkq.gif", 
-        "104"
+        "105"
     ], 
     [
         "Things broke. I&#039;m out.", 
@@ -2362,7 +2337,7 @@
     [
         "The day before the deadline", 
         "http://i.imgur.com/jnUusXT.gif", 
-        "140"
+        "141"
     ], 
     [
         "Working on the layout", 
@@ -2447,17 +2422,17 @@
     [
         "Collaborating with UX team", 
         "http://i.imgur.com/6SRwoVA.gif", 
-        "140"
+        "139"
     ], 
     [
         "Friday afternoon after having Mexican for lunch", 
         "http://i.imgur.com/QZqDR2c.gif", 
-        "116"
+        "117"
     ], 
     [
         "Getting sudo", 
         "http://68.media.tumblr.com/8a6c73f706e74d397425f02a3fe16ab5/tumblr_inline_n4eqevcgIe1raprkq.gif", 
-        "213"
+        "212"
     ], 
     [
         "Digging around in the legacy code", 
@@ -2547,7 +2522,7 @@
     [
         "Friday deployments (...and leaving afterwards)", 
         "http://68.media.tumblr.com/7f94de2ed3b590dbf59d501041699d94/tumblr_inline_n67m5fYC3X1raprkq.gif", 
-        "244"
+        "243"
     ], 
     [
         "ksplice / kpatch", 
@@ -2582,7 +2557,7 @@
     [
         "Reading the full story about lavabit", 
         "http://i.imgur.com/I0WDu2u.gif", 
-        "60"
+        "61"
     ], 
     [
         "Cleaning up OpenSSL code", 
@@ -2642,7 +2617,7 @@
     [
         "How it feels being at work and issues coming out of nowhere", 
         "http://i.imgur.com/xGunynn.gif", 
-        "80"
+        "79"
     ], 
     [
         "I&#039;ll just change this one line...", 
@@ -2682,7 +2657,7 @@
     [
         "Handling issues on a Friday at 4:00pm", 
         "http://i.imgur.com/cyKCKhO.gif", 
-        "120"
+        "121"
     ], 
     [
         "Working without devops tools", 
@@ -2732,12 +2707,12 @@
     [
         "Testing my own code", 
         "http://68.media.tumblr.com/538c84f63765a398b291429a55882331/tumblr_inline_n6vkoiTSqe1raprkq.gif", 
-        "446"
+        "447"
     ], 
     [
         "Explaining the outage to 3rd parties", 
         "http://68.media.tumblr.com/b7fcfb37107e3182c2e344ffb94a7bcd/tumblr_inline_n6iplxea1u1raprkq.gif", 
-        "117"
+        "116"
     ], 
     [
         "Reset the Net", 
@@ -2797,7 +2772,7 @@
     [
         "Typical day of a SysAdmin", 
         "http://i.imgur.com/cjzDNbc.gif", 
-        "100"
+        "101"
     ], 
     [
         "New project manager", 
@@ -2867,7 +2842,7 @@
     [
         "When I see unlocked stations", 
         "http://i.imgur.com/OsT790T.gif", 
-        "127"
+        "128"
     ], 
     [
         "Proving that the error is from someone else", 
@@ -2972,7 +2947,7 @@
     [
         "Android&#039;s app certificate verification", 
         "http://68.media.tumblr.com/ab41f3256fb51727a87ea30bf271c908/tumblr_inline_n9r9j7x4Co1raprkq.gif", 
-        "170"
+        "169"
     ], 
     [
         "Multi-Line, Triple Nested Ternaries", 
@@ -2997,7 +2972,7 @@
     [
         "Hey Rookie, talk with that customer", 
         "http://i.imgur.com/NuxumaC.gif", 
-        "111"
+        "110"
     ], 
     [
         "The moment you get off pager duty", 
@@ -3107,7 +3082,7 @@
     [
         "Presenting a bug as a feature", 
         "http://68.media.tumblr.com/51c5b6278e26819a967d389ba3685bfc/tumblr_inline_nb7ammzUEK1raprkq.gif", 
-        "174"
+        "175"
     ], 
     [
         "PM asking for new features after QA starts", 
@@ -3147,7 +3122,7 @@
     [
         "Senior in action", 
         "https://i.imgur.com/2hJRYfN.gif", 
-        "182"
+        "183"
     ], 
     [
         "Sudden hardware failure", 
@@ -3157,12 +3132,12 @@
     [
         "Login with the root password, to decrypt the LDAP partition, to start LDAP, to restore access ", 
         "http://68.media.tumblr.com/d0f03d7f1448e8a6ddea76dae8c672d3/tumblr_inline_nczw3xVi1s1raprkq.gif", 
-        "128"
+        "127"
     ], 
     [
         "When you are the guru of failovers", 
         "http://68.media.tumblr.com/b5b4f0688acda5c5682f43c8ba9d932e/tumblr_inline_nczurxJz6k1raprkq.gif", 
-        "142"
+        "143"
     ], 
     [
         "TLS protocol downgrade", 
@@ -3172,7 +3147,7 @@
     [
         "Finally killing SSLv3 after POODLE", 
         "http://68.media.tumblr.com/5fc1e0cfea326815226e23c6a251da3e/tumblr_inline_ndntjoFyM71raprkq.gif", 
-        "48"
+        "47"
     ], 
     [
         "Friday 3.55 pm", 
@@ -3227,7 +3202,7 @@
     [
         "Working on a shared code base", 
         "http://68.media.tumblr.com/217b27a12ad5263ea11f25c9e880c17e/tumblr_inline_nbk7agC7FJ1raprkq.gif", 
-        "199"
+        "200"
     ], 
     [
         "The two sides of SaaS: Development vs What the world sees", 
@@ -3267,7 +3242,7 @@
     [
         "Writing reports", 
         "http://68.media.tumblr.com/d0d096f3814170a77412a279f0c42613/tumblr_inline_nesrgoa1HY1raprkq.gif", 
-        "99"
+        "100"
     ], 
     [
         "How it feels when your are congratulated for something you feel is mundane and boring", 
@@ -3297,7 +3272,7 @@
     [
         "Reflecting escalations", 
         "http://68.media.tumblr.com/3285e061bce6c6e4967a805668382b16/tumblr_inline_nesr3eSdFZ1raprkq.gif", 
-        "62"
+        "61"
     ], 
     [
         "Redundancy", 
@@ -3367,7 +3342,7 @@
     [
         "When something that worked yesterday night doesn&#039;t work this morning", 
         "http://68.media.tumblr.com/ed2d6be1e592dda927861b31949fea5c/tumblr_inline_nglo5gohnF1raprkq.gif", 
-        "218"
+        "217"
     ], 
     [
         "Thanks for the commit, but do not break the build again", 
@@ -3397,12 +3372,12 @@
     [
         "Deploying staging cookbook to production", 
         "http://68.media.tumblr.com/797c9d29be1f4326369f695fd06a5757/tumblr_inline_ng8tcz2PhK1raprkq.gif", 
-        "99"
+        "98"
     ], 
     [
         "Successful live migration", 
         "http://68.media.tumblr.com/70c4403d5a81c5d436f38362f5ae7566/tumblr_inline_ng8t79U7Yv1raprkq.gif", 
-        "179"
+        "180"
     ], 
     [
         "Developers and Operations in DevOps", 
@@ -3507,7 +3482,7 @@
     [
         "Finding out that your uid was used in the past by someone else", 
         "http://68.media.tumblr.com/422350af98789d55d5fa2a275e615822/tumblr_inline_nhop44Xu1f1raprkq.gif", 
-        "105"
+        "104"
     ], 
     [
         "Empirical learners", 
@@ -3517,7 +3492,7 @@
     [
         "JSONx is an IBM standard format to represent JSON as XML", 
         "http://68.media.tumblr.com/089bea5b2ce07985315eca2aba543544/tumblr_inline_njhe5grCR31raprkq.gif", 
-        "209"
+        "210"
     ], 
     [
         "How on-call changes you", 
@@ -3527,7 +3502,7 @@
     [
         "Project handover", 
         "http://68.media.tumblr.com/e79feaec2c3281de5c2c9bb704603383/tumblr_inline_njhdyhcRQV1raprkq.gif", 
-        "274"
+        "273"
     ], 
     [
         "Got new powerful PC", 
@@ -3842,7 +3817,7 @@
     [
         "When one gets praised", 
         "http://i.imgur.com/uTiOrDY.gif", 
-        "50"
+        "49"
     ], 
     [
         "Trying to get used to the new environment", 
@@ -3852,12 +3827,12 @@
     [
         "Junior to senior, illustrated", 
         "http://i.imgur.com/ANGe1r7.gif", 
-        "268"
+        "270"
     ], 
     [
         "The service is broken for no apparent reason 10 minutes before the presentation", 
         "http://68.media.tumblr.com/06de321738c175c27f391cd2960d2e48/tumblr_inline_nox99at6wG1raprkq_500.gif", 
-        "100"
+        "101"
     ], 
     [
         "Using autofs", 
@@ -3877,12 +3852,12 @@
     [
         "Working from home", 
         "http://68.media.tumblr.com/9dcdfb1684137bc47f60f410a9c29ddf/tumblr_inline_no7pohEcge1raprkq_500.gif", 
-        "230"
+        "231"
     ], 
     [
         "No post on devopsreactions for 4 days", 
         "http://68.media.tumblr.com/43fc355abd597aa21bbf7a8ddb8982e3/tumblr_inline_no7pm8nUhP1raprkq_500.gif", 
-        "59"
+        "60"
     ], 
     [
         "Arriving home after a long deploy", 
@@ -3912,7 +3887,7 @@
     [
         "bash: ls: command not found", 
         "http://68.media.tumblr.com/c6e791c1c80a953da66785706d795994/tumblr_inline_no7ok7qXHz1raprkq_500.gif", 
-        "227"
+        "226"
     ], 
     [
         "Unit testing", 
@@ -3942,7 +3917,7 @@
     [
         "When staging/pre-prod is broken", 
         "http://68.media.tumblr.com/9572b396f16c2ae668233bb33701f1a7/tumblr_inline_nnwcs60HIa1raprkq_500.gif", 
-        "168"
+        "170"
     ], 
     [
         "Developers finding out about PM&rsquo;s plans for the next release", 
@@ -3962,22 +3937,22 @@
     [
         "Alerts when an outage starts", 
         "http://68.media.tumblr.com/77643256dfd0c5e15382486e6f310ebe/tumblr_inline_nqbmcpsG5E1raprkq_500.gif", 
-        "185"
+        "186"
     ], 
     [
         "Testing of a brand new feature", 
         "http://68.media.tumblr.com/3507d4544feba01ef8182146c400f42b/tumblr_inline_nqbmah1D6g1raprkq_500.gif", 
-        "144"
+        "145"
     ], 
     [
         "Being asked for a UML of the release", 
         "http://68.media.tumblr.com/0d6f80e34435fb6b7c719d6b98f571af/tumblr_inline_nqbm4esgJj1raprkq_500.gif", 
-        "60"
+        "61"
     ], 
     [
         "Developing interfaces", 
         "http://i.imgur.com/y88SSgY.gif", 
-        "87"
+        "88"
     ], 
     [
         "Overhearing that SVN externals are better than Git with Composer", 
@@ -4037,7 +4012,7 @@
     [
         "Reading your own code", 
         "http://68.media.tumblr.com/fb8632ccf5f1b44a7e8322b1133536a1/tumblr_inline_np8lducEbP1raprkq_500.gif", 
-        "1783"
+        "1784"
     ], 
     [
         "That moment when Puppet goes wrong", 
@@ -4057,7 +4032,7 @@
     [
         "Happy SysAdmin Day!", 
         "https://i.imgur.com/PW5YZ02.gif", 
-        "73"
+        "74"
     ], 
     [
         "Software security on proprietary hardware", 
@@ -4072,7 +4047,7 @@
     [
         "What the host masks from your VPS performance monitor", 
         "http://68.media.tumblr.com/30b7d29223c73d0cc28b4f38cf95caa8/tumblr_inline_ns4gu3qIKl1raprkq_540.gif", 
-        "89"
+        "90"
     ], 
     [
         "Joining the live pool", 
@@ -4082,12 +4057,12 @@
     [
         "When your salt states bring a machine up with one command", 
         "http://i.imgur.com/GJn9QAK.gif", 
-        "40"
+        "41"
     ], 
     [
         "Reproducible Deployments", 
         "http://68.media.tumblr.com/766bfa22490e44da72625ad5fa3870a5/tumblr_inline_nrrdvryiqd1raprkq_500.gif", 
-        "95"
+        "96"
     ], 
     [
         "systemd evolving", 
@@ -4102,22 +4077,22 @@
     [
         "When your Sunday oncall outage turns into their Monday oncall outage", 
         "http://68.media.tumblr.com/3f8fe50d6c8f498f2b8194b62090cc68/tumblr_inline_nrrdnkdfeB1raprkq_500.gif", 
-        "163"
+        "164"
     ], 
     [
         "When you miss the last deployment step", 
         "http://68.media.tumblr.com/893cab08daf76ef8ac89691f3d460011/tumblr_inline_nrravlyT3Q1raprkq_500.gif", 
-        "149"
+        "150"
     ], 
     [
         "Scripted deployment without proper error checking", 
         "http://68.media.tumblr.com/05b85f9c643c8ffc6d654aae2cdce781/tumblr_inline_nrg8ogq2jW1raprkq_500.gif", 
-        "154"
+        "155"
     ], 
     [
         "Fixing trivial bugs", 
         "http://68.media.tumblr.com/214f6dc33e86a69b2e793acbd3162c0d/tumblr_inline_nrg8kx2RXT1raprkq_500.gif", 
-        "125"
+        "126"
     ], 
     [
         "When you&nbsp; are focused", 
@@ -4127,7 +4102,7 @@
     [
         "When a bug you fixed gets re-introduced", 
         "http://68.media.tumblr.com/8b7e59ba67fff6398a1118a62cbc7226/tumblr_inline_nrg8hsIJiR1raprkq_500.gif", 
-        "138"
+        "139"
     ], 
     [
         "Hacking Team&rsquo;s reaction after getting hacked", 
@@ -4137,7 +4112,7 @@
     [
         "Continuous delivery, the manual way", 
         "http://68.media.tumblr.com/799e3b44dbd2fd0dbd4a9a8fd46865d4/tumblr_inline_nqbn5fpCPk1raprkq_500.gif", 
-        "156"
+        "157"
     ], 
     [
         "Using the right command on the wrong environment... as root", 
@@ -4147,17 +4122,17 @@
     [
         "When you think you saw a bug", 
         "http://68.media.tumblr.com/aa29881769795023bce85ca7eb9b2579/tumblr_inline_nqbmrxAcjN1raprkq_500.gif", 
-        "151"
+        "152"
     ], 
     [
         "Glimpsing the legacy code", 
         "http://68.media.tumblr.com/1014af79a4c01db94e99a68a7f701b91/tumblr_inline_nqbmpnZXwx1raprkq_500.gif", 
-        "108"
+        "109"
     ], 
     [
         "Trying to understand the customer&rsquo;s email", 
         "http://68.media.tumblr.com/14e4b3433d443bd554a772883c79910d/tumblr_inline_nqbmhmDQFx1raprkq_500.gif", 
-        "104"
+        "105"
     ], 
     [
         "When you see the outage starting and you can&rsquo;t do anything", 
@@ -4167,12 +4142,12 @@
     [
         "Trying to mimic  the seniors", 
         "http://68.media.tumblr.com/bd3aac6428db17e9a499e06adf876be5/tumblr_inline_ntk5s7bA4U1raprkq_500.gif", 
-        "166"
+        "167"
     ], 
     [
         "Losing focus in a meeting", 
         "http://i.imgur.com/T90BKXd.gif", 
-        "124"
+        "125"
     ], 
     [
         "Trying to create a frontend with nice UX, as a full backend developer", 
@@ -4202,12 +4177,12 @@
     [
         "The team meets the new hire", 
         "http://68.media.tumblr.com/28c6d235949bda3b3d1cc7e913cc2a83/tumblr_inline_nt7690JXpZ1raprkq_500.gif", 
-        "100"
+        "101"
     ], 
     [
         "When you have to pick between security and compatibility", 
         "http://68.media.tumblr.com/7db4d6b25de322c3d5453b49adfe514d/tumblr_inline_nt762gDkYo1raprkq_500.gif", 
-        "81"
+        "82"
     ], 
     [
         "F10, F10, F10, F10, First-chance exception", 
@@ -4217,27 +4192,27 @@
     [
         "Burndown matches estimates", 
         "http://i.imgur.com/r0bZw3I.gif", 
-        "40"
+        "41"
     ], 
     [
         "Watching a vim guru", 
         "http://68.media.tumblr.com/ec4935a645d0003a128a1f7cb12ca377/tumblr_inline_nsu3wtXBIv1raprkq_500.gif", 
-        "207"
+        "208"
     ], 
     [
         "The very first time you are handed access to production", 
         "http://68.media.tumblr.com/ff8a132242ef963c0262604b0e1522bd/tumblr_inline_nsu3uacAaJ1raprkq_500.gif", 
-        "254"
+        "255"
     ], 
     [
         "The day before the deadline #2", 
         "http://68.media.tumblr.com/237594da61fa28e4e5455ff4666d2dbb/tumblr_inline_nsu2sjwNo51raprkq_500.gif", 
-        "191"
+        "192"
     ], 
     [
         "I&rsquo;ll start this and learn in the process", 
         "http://68.media.tumblr.com/2981450f1ee3d75d5feb389d8a1bb014/tumblr_inline_nshd51g5eN1raprkq_500.gif", 
-        "129"
+        "130"
     ], 
     [
         "Submitted a bug report but no response yet", 
@@ -4247,22 +4222,22 @@
     [
         "Tech people at video conferences", 
         "http://68.media.tumblr.com/9623d4ab00c74f027e6cd1e23e1d5126/tumblr_inline_nshd2hgJNy1raprkq_500.gif", 
-        "142"
+        "143"
     ], 
     [
         "When the system doesn&rsquo;t support what the customer asks, yet we try", 
         "http://68.media.tumblr.com/1e921e7f3b454bef161d051eca5daecd/tumblr_inline_nshcku94Ah1raprkq_500.gif", 
-        "222"
+        "223"
     ], 
     [
         "What you need... sometimes", 
         "http://68.media.tumblr.com/367e30bf0895ab1095765a4b6fb1f2c5/tumblr_inline_nshds9v9LV1raprkq_500.gif", 
-        "311"
+        "312"
     ], 
     [
         "User says 10G network is not enough", 
         "https://i.imgur.com/pX8Galu.gif", 
-        "48"
+        "49"
     ], 
     [
         "Automation done well", 
@@ -4272,12 +4247,12 @@
     [
         "Running shell scripts from the Internet", 
         "http://68.media.tumblr.com/bbc5ce35803d318aa8dd9461ad1e6386/tumblr_inline_nvd48dIU5z1raprkq_500.gif", 
-        "134"
+        "135"
     ], 
     [
         "Wrong tool for the job", 
         "http://68.media.tumblr.com/f07885ea54fdd1cc19461a5786a1d8fe/tumblr_inline_nv041bDxnI1raprkq_500.gif", 
-        "93"
+        "94"
     ], 
     [
         "After upgrading all the WordPress plugins", 
@@ -4287,7 +4262,7 @@
     [
         "Assign it to me", 
         "http://68.media.tumblr.com/f966ef1e6832bd3c3a8d124903f0c303/tumblr_inline_nv03wtRH881raprkq_500.gif", 
-        "214"
+        "215"
     ], 
     [
         "How it feels when you&rsquo;re told you have to work on the weekend", 
@@ -4307,12 +4282,12 @@
     [
         "How I picture the thoughts of someone saying that they are thinking out of the box", 
         "http://68.media.tumblr.com/1678ed243c666fa789a1072ce03ab24c/tumblr_inline_nun7c1jYXZ1raprkq_500.gif", 
-        "198"
+        "199"
     ], 
     [
         "Looking at a simple bug", 
         "http://68.media.tumblr.com/c6747032f505db2239a3ace87f9889cf/tumblr_inline_nun75jziiU1raprkq_500.gif", 
-        "298"
+        "299"
     ], 
     [
         "Getting out of on-call rotation", 
@@ -4332,7 +4307,7 @@
     [
         "Code red while out at lunch", 
         "http://68.media.tumblr.com/02bcf2ace0d28e0149d25a6243f3624e/tumblr_inline_nuaa6fTXIT1raprkq_500.gif", 
-        "101"
+        "102"
     ], 
     [
         "Granting sudo to your boss", 
@@ -4342,7 +4317,7 @@
     [
         "When your manager pretends coding", 
         "http://68.media.tumblr.com/20f4ed9a342f60c5e52cc2d6af22f414/tumblr_inline_nuaa0ozClU1raprkq_500.gif", 
-        "191"
+        "192"
     ], 
     [
         "Using a framework to write a very small app", 
@@ -4357,12 +4332,12 @@
     [
         "When someone starts working out of scope", 
         "http://i.imgur.com/fPDyg08.gif", 
-        "68"
+        "69"
     ], 
     [
         "When your deploy breaks other stuff", 
         "http://68.media.tumblr.com/a3728d36d88cc94b26d443b77676aefd/tumblr_inline_ntz6orId0U1raprkq_500.gif", 
-        "201"
+        "202"
     ], 
     [
         "Changing specialization and starting from scratch as a junior", 
@@ -4377,22 +4352,22 @@
     [
         "Project Manager working with a discouraged team", 
         "http://68.media.tumblr.com/5ab5d55c50547211e99ddf727ce84eed/tumblr_inline_nwfyh5dbYm1raprkq_500.gif", 
-        "219"
+        "220"
     ], 
     [
         "Calculating the power requirements for the new DC cage", 
         "http://68.media.tumblr.com/10a5d377c0d6dcae3ea3735f254e1b7a/tumblr_inline_nwfz1zP5Mv1raprkq_500.gif", 
-        "81"
+        "82"
     ], 
     [
         "The CEO testing a new feature", 
         "http://68.media.tumblr.com/951808f2d7e4a809101199e9d07d1888/tumblr_inline_nwfybcXTvP1raprkq_500.gif", 
-        "288"
+        "289"
     ], 
     [
         "Updating the live production servers", 
         "http://68.media.tumblr.com/8bfd2c9841e812e0fbb7b6e80d89b0a2/tumblr_inline_nwfy9j9nlc1raprkq_500.gif", 
-        "174"
+        "175"
     ], 
     [
         "Midnight Coding", 
@@ -4417,12 +4392,12 @@
     [
         "Applying a hotfix", 
         "http://i.imgur.com/yKnhYiL.gif", 
-        "164"
+        "165"
     ], 
     [
         "What customers want from support", 
         "http://68.media.tumblr.com/973825bcc5f8ebd9a5ef4a903b8d4700/tumblr_inline_nvq642gF9j1raprkq_500.gif", 
-        "272"
+        "273"
     ], 
     [
         "Working with PMs", 
@@ -4432,7 +4407,7 @@
     [
         "Provoking the InfoSec people", 
         "http://68.media.tumblr.com/b8317c2a64fc15b2f3196640ac39558d/tumblr_inline_nvq4h43ZMM1raprkq_500.gif", 
-        "75"
+        "76"
     ], 
     [
         "Sales people looking for someone to help them", 
@@ -4447,12 +4422,12 @@
     [
         "How you were coding 3 years ago", 
         "http://68.media.tumblr.com/a40e346b0f30131c41b40290f568e84f/tumblr_inline_nvd5vclf7M1raprkq_500.gif", 
-        "262"
+        "263"
     ], 
     [
         "Classic development cycle", 
         "http://68.media.tumblr.com/c69d6a0e4d4ba681ed9045b23a8c5ee2/tumblr_inline_nvd5p9QbfH1raprkq_500.gif", 
-        "507"
+        "508"
     ], 
     [
         "Monday&rsquo;s login after Friday&rsquo;s password change", 
@@ -4537,7 +4512,7 @@
     [
         "Having 10% female visitors on devopsreactions", 
         "http://68.media.tumblr.com/07c6b5e72738b23094607be241e440cb/tumblr_inline_nxj2xwzkkq1raprkq_500.gif", 
-        "191"
+        "192"
     ], 
     [
         "When imgur blacklisted devopsreactions", 
@@ -4567,12 +4542,12 @@
     [
         "Applying SVN habits to Git", 
         "http://imageshack.com/a/img923/4304/it9BEx.gif", 
-        "98"
+        "99"
     ], 
     [
         "Trying to avoid a meeting but getting stuck in two", 
         "http://68.media.tumblr.com/8cf3f91c00e354d6fb82a688d36e2450/tumblr_inline_nzoscrOPfq1raprkq_500.gif", 
-        "150"
+        "149"
     ], 
     [
         "Perfect exception catching/handling", 
@@ -4602,7 +4577,7 @@
     [
         "Bug fixed... should be ok now... no, wait", 
         "http://68.media.tumblr.com/b59635aab404a19acde3c16a4afa75c0/tumblr_inline_nzbu99CIOs1raprkq_500.gif", 
-        "348"
+        "347"
     ], 
     [
         "When you are surrounded by developers of a different language", 
@@ -4622,7 +4597,7 @@
     [
         "Senior&rsquo;s reaction when asked to stay late", 
         "http://68.media.tumblr.com/9fcd9354aed5b2f07a80affaa4797e9e/tumblr_inline_nyywp5MJcR1raprkq_500.gif", 
-        "160"
+        "161"
     ], 
     [
         "Trying to figure out an elusive bug", 
@@ -4637,7 +4612,7 @@
     [
         "Startup dev and corporate recruiters", 
         "http://imageshack.com/a/img908/816/9zc7wC.gif", 
-        "77"
+        "80"
     ], 
     [
         "Bug squashing", 
@@ -4752,7 +4727,7 @@
     [
         "That colleague that always rejects new ideas", 
         "http://68.media.tumblr.com/af9e948643053e26e6e42742ae4bc638/tumblr_inline_o2xjnpfLoH1raprkq_500.gif", 
-        "135"
+        "137"
     ], 
     [
         "Failing UAT", 
@@ -4772,7 +4747,7 @@
     [
         "So all your estimates were random", 
         "http://68.media.tumblr.com/4afa72349d988b72f90b56f79315853e/tumblr_inline_o2ki7bjCYU1raprkq_500.gif", 
-        "133"
+        "134"
     ], 
     [
         "Tim Cook&rsquo;s response to the FBI", 
@@ -4787,7 +4762,7 @@
     [
         "Trying to identify a problem without adequate permissions", 
         "http://68.media.tumblr.com/658ac31c21757dbd606d89dd28e69ca0/tumblr_inline_o2khxar3Aq1raprkq_500.gif", 
-        "340"
+        "341"
     ], 
     [
         "Just run this command they said. It&rsquo;s straightforward they said. It can&rsquo;t go wrong they said", 
@@ -4827,7 +4802,7 @@
     [
         "When your team becomes noisy and the manager of the other team arrives", 
         "http://68.media.tumblr.com/d0cc39ed587ef02168b958645ca35788/tumblr_inline_o1ujy3VL7v1raprkq_500.gif", 
-        "171"
+        "172"
     ], 
     [
         "Demoing the site", 
@@ -4877,7 +4852,7 @@
     [
         "HR next to a Developer performing an interview", 
         "http://68.media.tumblr.com/02aad863112367b75c2532279df6022d/tumblr_inline_o4d5kjtgjo1raprkq_500.gif", 
-        "224"
+        "223"
     ], 
     [
         "When the Linux admin fills in for the Windows admin", 
@@ -4952,7 +4927,7 @@
     [
         "When someone doesn&rsquo;t follow the coding style guidelines", 
         "http://68.media.tumblr.com/283f674ce42a0498521d8b9b505e2067/tumblr_inline_o3a9e7ooZE1raprkq_500.gif", 
-        "329"
+        "341"
     ], 
     [
         "When you fix a bug that you&#039;ve been working on all night", 
@@ -4992,7 +4967,7 @@
     [
         "Falling back to IPv4", 
         "http://68.media.tumblr.com/6443afc92900e4fecc3ee4ab6cb77e84/tumblr_inline_o5svtp1HFa1raprkq_500.gif", 
-        "107"
+        "108"
     ], 
     [
         "Starting an old legacy server", 
@@ -5002,7 +4977,7 @@
     [
         "When the build fails at the last step", 
         "http://68.media.tumblr.com/6ae3cb32c6ec7b5464f42693c350da0d/tumblr_inline_o5svqleg7s1raprkq_500.gif", 
-        "186"
+        "187"
     ], 
     [
         "Coming across the UI changes that were deployed on Friday", 
@@ -5012,12 +4987,12 @@
     [
         "When SecOps shows up to the meeting", 
         "http://68.media.tumblr.com/0736ff020d86ded91dda877bd4d698af/tumblr_inline_o5g2txB89G1raprkq_500.gif", 
-        "336"
+        "338"
     ], 
     [
         "Our Development Process", 
         "http://68.media.tumblr.com/366e02660e6ff60c25420d3882a9f6a1/tumblr_inline_o5g22v8qZO1raprkq_540.gif", 
-        "484"
+        "488"
     ], 
     [
         "When docker upgrade goes without a hitch", 
@@ -5052,7 +5027,7 @@
     [
         "When you notice that the &ldquo;automation&rdquo; ended up being the intern doing it", 
         "http://imagizer.imageshack.us/a/img924/7463/M4ueRA.gif", 
-        "181"
+        "183"
     ], 
     [
         "When the technical debt unrolls", 
@@ -5072,12 +5047,12 @@
     [
         "When you need to create a mock service ASAP", 
         "http://68.media.tumblr.com/fd63b02f09881cd355977111af918661/tumblr_inline_o78wbrQmNg1raprkq_500.gif", 
-        "250"
+        "255"
     ], 
     [
         "CTO introduces me to the visiting investors during an outage", 
         "http://68.media.tumblr.com/9888a122f00e8b5fd425dc25bd9e391e/tumblr_inline_o78vxm7fBG1raprkq_500.gif", 
-        "182"
+        "183"
     ], 
     [
         "Tech people at video conferences", 
@@ -5097,12 +5072,12 @@
     [
         "When you know that you are getting closer to the bug", 
         "http://68.media.tumblr.com/07354477598ad2585bd24452671da524/tumblr_inline_o6vyomroju1raprkq_500.gif", 
-        "240"
+        "244"
     ], 
     [
         "When my full time project is canceled", 
         "http://68.media.tumblr.com/88515f8ee5263761a912a7910109ff40/tumblr_inline_o6vylhCiTo1raprkq_540.gif", 
-        "60"
+        "61"
     ], 
     [
         "Devs, after Ops declare the outage to be over", 
@@ -5132,7 +5107,7 @@
     [
         "When the customer calls during an outage", 
         "http://68.media.tumblr.com/eb7d758f55c5441bfd69f04f14640e30/tumblr_inline_o6kov7Tvq81raprkq_500.gif", 
-        "152"
+        "153"
     ], 
     [
         "When the tickets just keep coming", 
@@ -5162,12 +5137,12 @@
     [
         "Ops&rsquo; report: three out of five app servers&rsquo; behaviour is a little bit strange.", 
         "http://68.media.tumblr.com/599aea8454eb571d660c5b3f7207ebb8/tumblr_inline_o8oq5ltpWs1raprkq_500.gif", 
-        "142"
+        "144"
     ], 
     [
         "When AWS has a problem, but your stuff keep going", 
         "http://68.media.tumblr.com/1f3a7ceed55b747570f4da16fd5d01f3/tumblr_inline_o8opxiMNFQ1raprkq_500.gif", 
-        "115"
+        "114"
     ], 
     [
         "Trying to catch the race condition", 
@@ -5182,7 +5157,7 @@
     [
         "Just returned from vacation; git pull", 
         "http://imageshack.com/a/img922/8858/QEwt21.gif", 
-        "151"
+        "152"
     ], 
     [
         "Waiting the late night deploy to finish", 
@@ -5192,7 +5167,7 @@
     [
         "Getting the job done by mistake", 
         "http://68.media.tumblr.com/7da2f7aacbbdd0d0dda973ca34a036e3/tumblr_inline_o8bpipYcZJ1raprkq_500.gif", 
-        "188"
+        "190"
     ], 
     [
         "Unrealistic project estimation", 
@@ -5212,12 +5187,12 @@
     [
         "Trying to work with live traffic", 
         "http://68.media.tumblr.com/e0e87cf77dfecb79d78afb94f12d3b17/tumblr_inline_oauhktAydg1raprkq_500.gif", 
-        "109"
+        "110"
     ], 
     [
         "When someone commits with the tests not passing", 
         "http://68.media.tumblr.com/c55d790c7c51adaa31c4a0524ea0a9d3/tumblr_inline_oauhd9j3ra1raprkq_500.gif", 
-        "97"
+        "98"
     ], 
     [
         "Hey boss, is it true that we will have to work on Christmas eve?", 
@@ -5242,12 +5217,12 @@
     [
         "Looking for a bug in an unknown project", 
         "http://68.media.tumblr.com/030762a0664cc89ab2ab5c1f629e6389/tumblr_inline_oa9ioeZUlm1raprkq_500.gif", 
-        "97"
+        "98"
     ], 
     [
         "When devs think that because they added a feature, people will use it", 
         "http://68.media.tumblr.com/b4bad2d92cbf553aec1dd294b01b0b2e/tumblr_inline_oa9ik6rkyf1raprkq_500.gif", 
-        "194"
+        "195"
     ], 
     [
         "Altering the virtualized hardware of a live VM", 
@@ -5267,7 +5242,7 @@
     [
         "Using a framework that you do not understand", 
         "http://68.media.tumblr.com/b59bf11d3e438bf3027387d0ab96d311/tumblr_inline_obk8t6XYbD1raprkq_500.gif", 
-        "144"
+        "149"
     ], 
     [
         "Successfully executing unknown commands on production environments", 
@@ -5277,7 +5252,7 @@
     [
         "Coming to the conclusion that restarting things does not fix the app", 
         "http://imageshack.com/a/img922/567/WcqIMg.gif", 
-        "178"
+        "183"
     ], 
     [
         "Major change request 1 day before the release", 
@@ -5292,7 +5267,7 @@
     [
         "How you see a technical meeting when the vendor has sent only a sales team.", 
         "http://68.media.tumblr.com/6d804e29a4d135402dc1ad557688c111/tumblr_inline_obk805ttVV1raprkq_500.gif", 
-        "156"
+        "158"
     ], 
     [
         "Getting outside when you are a home worker", 
@@ -5317,62 +5292,62 @@
     [
         "Not handling errors in your code", 
         "http://68.media.tumblr.com/8f0c4363da17d0e987af1bc02f9cc10b/tumblr_inline_odd3llOGu51raprkq_500.gif", 
-        "104"
+        "108"
     ], 
     [
         "gdb", 
         "http://68.media.tumblr.com/6427b7dd4871647fed311d04ac93e2f1/tumblr_inline_odd3jl0vkr1raprkq_500.gif", 
-        "169"
+        "175"
     ], 
     [
         "Getting your build through the pipeline", 
         "http://68.media.tumblr.com/0d8e767123ebd3b1cf2870ed0433a4a0/tumblr_inline_odd3fcGwAw1raprkq_500.gif", 
-        "99"
+        "106"
     ], 
     [
         "Reaction of a senior engineer, having seen it all before", 
         "http://68.media.tumblr.com/9ba8fe087f2bc0eda23f424bffb20fb0/tumblr_inline_odd3dlLIY31raprkq_500.gif", 
-        "153"
+        "158"
     ], 
     [
         "When you lose another service during a major outage", 
         "http://68.media.tumblr.com/c2b03e242ea5cd2b7b3f92de9a60b32a/tumblr_inline_odd3a4Zm4S1raprkq_500.gif", 
-        "167"
+        "172"
     ], 
     [
         "Job freezes with unexpected input", 
         "http://68.media.tumblr.com/9cf644e192e9e8a1094cd626754e4897/tumblr_inline_odd3858aHC1raprkq_500.gif", 
-        "141"
+        "144"
     ], 
     [
         "Petting your incomprehensible piece of code", 
         "http://68.media.tumblr.com/e1e50bb3e21356bc0fb1df0e596866c2/tumblr_inline_odd34c0w7l1raprkq_500.gif", 
-        "511"
+        "521"
     ], 
     [
         "Junior dev being awesome", 
         "http://68.media.tumblr.com/b08214bffa07f0a79938697589ed4fe2/tumblr_inline_odd2x9PvYg1raprkq_500.gif", 
-        "133"
+        "139"
     ], 
     [
         "How tar -zcf works", 
         "http://68.media.tumblr.com/b7bea3ac58322b8d209078966fbbe574/tumblr_inline_odd2ueE6RO1raprkq_500.gif", 
-        "113"
+        "114"
     ], 
     [
         "Overengineering", 
         "http://imageshack.com/a/img923/1654/XwWhXI.gif", 
-        "107"
+        "108"
     ], 
     [
         "When you realize who is behind all the pointless feature requests you have to implement", 
         "http://68.media.tumblr.com/7193c95edc944a6177097c20d35dc16c/tumblr_inline_odd2lpiW7j1raprkq_500.gif", 
-        "130"
+        "131"
     ], 
     [
         "Getting schooled by the technical lead of another team", 
         "http://imageshack.com/a/img924/6122/8wzNBc.gif", 
-        "63"
+        "65"
     ], 
     [
         "Making the best out of a boring task", 
@@ -5382,7 +5357,7 @@
     [
         "Solving a problem by looking at the source code", 
         "http://imageshack.com/a/img922/7726/re3MmM.gif", 
-        "101"
+        "106"
     ], 
     [
         "Trying the first prototype... Good enough.", 

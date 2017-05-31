@@ -47,7 +47,6 @@ def twist():
 
     arg = request.form.get('command_argument')
     gif = devgif.get(q=arg)
-    print '!!! arg=%s // title=%s' % (arg, gif[0])
     return jsonify({
         'content': '%s\n**%s**' % (request.form.get('content'), gif[0]),
         'attachments': [{

@@ -25,6 +25,8 @@ def gif():
                            likes=gif[2])
 
 
+# --- Slack
+
 @app.route('/slack_oauth', methods=['GET'])
 def slack_oauth():
     post_args = {
@@ -34,7 +36,12 @@ def slack_oauth():
         'redirect_uri': 'https://devgif.com/slack_oauth'
     }
     requests.post('https://slack.com/api/oauth.access', data=post_args)
-    return redirect('https://slack.com/apps/A4LFVLX3N-devgif')
+    return redirect('https://devgif.com/slack_done')
+
+
+@app.route('/slack_done')
+def slack_done():
+    return render_template('slack.html')
 
 
 @app.route('/slack', methods=['POST'])
@@ -52,6 +59,8 @@ def slack():
     }
     return jsonify(response)
 
+
+# --- Twist
 
 @app.route('/twist', methods=['POST'])
 def twist():
